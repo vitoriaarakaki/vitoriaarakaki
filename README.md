@@ -1,6 +1,6 @@
 ## Olá, eu sou a Vitória 
 
-- 🔭 Atualmente estou estudante Ciências da Computação.
+- 🔭 Atualmente sou estudante de Ciências da Computação.
 - 🌱 Estou aprendendo mais a fundo sobre as linguagens SQL e Java.
 - 📫 Você pode entrar em contato comigo através do meu LinkedIn ou GMAIL:
 
