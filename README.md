@@ -1,6 +1,4 @@
-### 👋 Hello! Welcome to my Github profile.
-
-## Eu sou a Vitória, mas pode me chamar de Vi!
+## Olá, eu sou a Vitória 
 
 - 🔭 Atualmente estou estudante Ciências da Computação.
 - 🌱 Estou aprendendo mais a fundo sobre as linguagens SQL e Java.
