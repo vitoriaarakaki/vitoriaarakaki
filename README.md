@@ -2,9 +2,10 @@
 
 - 🔭 Atualmente sou estudante de Ciências da Computação.
 - 🌱 Estou aprendendo mais a fundo sobre as linguagens SQL e Java.
-- 📫 Você pode entrar em contato comigo através do meu LinkedIn:
+- 📫 Você pode entrar em contato comigo através do meu LinkedIn ou Instagram:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriaarakaki)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vta_arakaki/)
 
 ![Vitória GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaarakaki&show_icons=true&theme=dracula)
 
