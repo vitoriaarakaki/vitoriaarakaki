@@ -1,6 +1,6 @@
 ## Olá, eu sou a Vitória 
 
-- 📚 Atualmente sou estudante do 4º semestre de Ciências da Computação.
+- 📚 Atualmente sou estudante do 4º semestre de Ciência da Computação.
 - 🤗 Soft skills: Boa comunicação | Criatividade | Motivação | Flexibilidade e Resiliência | Trabalho em equipe | Facilidade em aprender e a lidar com novas ferramentas no ambiente de trabalho.
 - 📫 Você pode entrar em contato comigo através do meu LinkedIn ou Instagram:
 
