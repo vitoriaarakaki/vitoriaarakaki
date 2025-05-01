@@ -1,6 +1,7 @@
 ## Olá, eu sou a Vitória 
 
-- 📚 Atualmente sou estudante do 6º semestre de Ciência da Computação.
+- 📚 Estudante do 6º semestre de Ciência da Computação.
+- 👩‍💻 Analista de projetos e arquiteta de soluções junior.
 - 🤗 Soft skills: Boa comunicação | Criatividade | Motivação | Flexibilidade e Resiliência | Trabalho em equipe | Facilidade em aprender e a lidar com novas ferramentas no ambiente de trabalho.
 - 📫 Você pode entrar em contato comigo através do meu LinkedIn ou Instagram:
 
@@ -31,6 +32,11 @@
     <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align="center" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+    <img align="center" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    <img align="center" alt="Axios" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />
+ 
+    
       </div><br/>    
       
  
