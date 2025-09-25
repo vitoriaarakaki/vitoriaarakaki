@@ -1,6 +1,6 @@
 ## Olá, eu sou a Vitória 
 
-- 📚 Estudante do 7º semestre de Ciência da Computação.
+- 📚 Estudante do 8º semestre de Ciência da Computação.
 - 👩‍💻 Analista de projetos e arquiteta de soluções junior.
 - 🤗 Soft skills: Criatividade | Motivação | Flexibilidade e Resiliência | Trabalho em equipe | Facilidade em aprender e a lidar com novas ferramentas no ambiente de trabalho.
 - 📫 Você pode entrar em contato comigo através do meu LinkedIn ou Instagram:
