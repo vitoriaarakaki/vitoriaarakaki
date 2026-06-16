@@ -1,7 +1,8 @@
 ## Olá, eu sou a Vitória 
 
-- 📚 Estudante do 8º semestre de Ciência da Computação.
-- 👩‍💻 Analista de projetos e arquiteta de soluções junior.
+- 👩‍🎓 Bacharel em Ciência da Computação. 
+- 📚 Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas.
+- 👩‍💻 Analista de projetos de Pleno na Vivo.
 - 🤗 Soft skills: Criatividade | Motivação | Flexibilidade e Resiliência | Trabalho em equipe | Facilidade em aprender e a lidar com novas ferramentas no ambiente de trabalho.
 - 📫 Você pode entrar em contato comigo através do meu LinkedIn ou Instagram:
 
