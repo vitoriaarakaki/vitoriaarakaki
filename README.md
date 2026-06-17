@@ -4,10 +4,9 @@
 - 📚 Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas.
 - 👩‍💻 Analista de projetos de Pleno na Vivo.
 - 🤗 Soft skills: Criatividade | Motivação | Flexibilidade e Resiliência | Trabalho em equipe | Facilidade em aprender e a lidar com novas ferramentas no ambiente de trabalho.
-- 📫 Você pode entrar em contato comigo através do meu LinkedIn ou Instagram:
+- 📫 Você pode entrar em contato comigo através do meu LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriaarakaki)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vta_arakaki/)
 
 <div>
 <a href="https://github.com/vitoriaarakaki">
