@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Bacharel em Ciência da Computação. 
 - 📚 Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas.
-- 👩‍💻 Analista de projetos de Pleno na Vivo.
+- 👩‍💻 Analista de projetos de TI de Pleno na Vivo.
 - 🤗 Soft skills: Criatividade | Motivação | Flexibilidade e Resiliência | Trabalho em equipe | Facilidade em aprender e a lidar com novas ferramentas no ambiente de trabalho.
 - 📫 Você pode entrar em contato comigo através do meu LinkedIn:
 
